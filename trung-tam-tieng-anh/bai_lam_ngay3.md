@@ -4,7 +4,7 @@
 
 - **Họ tên: Nguyễn Tiến Dũng**
 - **Lớp: CNTT3**
-- **Link repository:**
+- **Link repository:** https://github.com/Tdun87/HN-KS26-CNTT3_Nhap-mon-CNTT_OnTap-Ngay3
 - **Hệ điều hành (Windows/macOS): Windows**
 
 ## Bài 1. README.md
